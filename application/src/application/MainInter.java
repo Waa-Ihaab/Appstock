@@ -104,23 +104,23 @@ public class MainInter extends Application {
         
         loginButton.getStyleClass().add("loginButton-style");
        
-        Image image1 = new Image("file:C:\\Users\\PC\\OneDrive\\Bureau\\TestApp\\logowhit.png");
+        Image image1 = new Image("file:C:\\Users\\PC\\OneDrive\\Bureau\\application\\logowhit.png");
         ImageView imageView1 = new ImageView(image1);
 
-        Image image2 = new Image("file:C:\\Users\\PC\\OneDrive\\Bureau\\TestApp\\logoblack.png");
+        Image image2 = new Image("file:C:\\Users\\PC\\OneDrive\\Bureau\\application\\logoblack.png");
         ImageView imageView2 = new ImageView(image2);
         
-        Image loginsahm = new Image("file:C:\\Users\\PC\\OneDrive\\Bureau\\TestApp\\loginsahm.png");
+        Image loginsahm = new Image("file:C:\\Users\\PC\\OneDrive\\Bureau\\application\\loginsahm.png");
         ImageView imageloginsahm = new ImageView(loginsahm);
         Create_an_account.getStyleClass().add("Create_an_account-Style");
         
-        Image linkdin = new Image("file:C:\\Users\\PC\\OneDrive\\Bureau\\TestApp\\link.png");
+        Image linkdin = new Image("file:C:\\Users\\PC\\OneDrive\\Bureau\\application\\link.png");
         ImageView imagelinkdin = new ImageView(linkdin);
         
-        Image google = new Image("file:C:\\Users\\PC\\OneDrive\\Bureau\\TestApp\\google.png");
+        Image google = new Image("file:C:\\Users\\PC\\OneDrive\\Bureau\\application\\google.png");
         ImageView imagegoogle = new ImageView(google);
         
-        Image fb = new Image("file:C:\\Users\\PC\\OneDrive\\Bureau\\TestApp\\fb.png");
+        Image fb = new Image("file:C:\\Users\\PC\\OneDrive\\Bureau\\application\\fb.png");
         ImageView imagefb = new ImageView(fb);
       
         
